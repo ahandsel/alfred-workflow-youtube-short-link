@@ -1,7 +1,7 @@
 # Alfred Workflow - YouTube Short Link
 
 ## Description
-Converts a YouTube URL to a short link using a simple script.
+Shortens YouTube URLs using a simple script.
 
 ## Usage
 1. Copy a YouTube URL to the clipboard.
